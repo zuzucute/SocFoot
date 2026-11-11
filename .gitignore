@@ -1,0 +1,15 @@
+output/
+*.log
+.env
+.env.*
+scope.json
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+.idea/
+.vscode/

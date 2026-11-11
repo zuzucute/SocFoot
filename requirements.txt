@@ -1,0 +1,2 @@
+# SocFoot uses the Python standard library only (Python 3.9+).
+# No third-party dependencies are required.
